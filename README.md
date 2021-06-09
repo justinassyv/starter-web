@@ -28,5 +28,5 @@ This is a simple web project, deployment can be on any web server or even local 
 >>>>>>> 97ea8838336e88d151f20888a88fff5340fb6091
 
 ## Copyright
-
+Purpose
 2021 Git.Training.
