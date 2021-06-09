@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Justinas Syvokas justas12@gmail.com
 
 # THANKS
 
